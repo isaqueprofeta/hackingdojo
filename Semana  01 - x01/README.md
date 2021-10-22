@@ -2,6 +2,11 @@
 
 0 - Leia sobre programação orientada a objeto, crie uma pasta chamada Dojo nos seus favoritos do browser, e a cada pesquisa que fizer, tudo que for relevante salve nestes favoritos separando por subpastas com os tópicos para suas consultas futuras.
 
+ - https://realpython.com/python3-object-oriented-programming/
+ - https://prelogin-authoring.netacad.com/pt-br/courses/programming/pcap-programming-essentials-python
+ - https://prelogin-authoring.netacad.com/pt-br/courses/programming/essentials-programming-c-plus-plus
+ - https://prelogin-authoring.netacad.com/pt-br/courses/programming/javascript-essentials-1
+
 1 - Crie um programa em python utilizando socket que inicia um handler na porta 443, ou seja um processo que espera uma conexão na porta 443. Então deixe-o escutando no Kali.
 
 2 - Crie um programa em python que se conecta via socket na porta 443 e envia a frase "Hacking Dojo", entao faça com que este programa seja executado dentro da VM do Windows 10 envie a frase para o  handler.
